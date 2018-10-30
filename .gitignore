@@ -105,5 +105,5 @@ fabric.properties
 .classpath
 .project
 .settings
-*.iml   
-
+*.iml
+.vscode
